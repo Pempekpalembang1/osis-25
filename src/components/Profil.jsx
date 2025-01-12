@@ -12,7 +12,7 @@ function Profil() {
         </h2>
         <div className="h-[65vh] md:h-[75vh] w-screen md:w-[768px] p-[24px] grid">
           <iframe
-            src="https://www.youtube.com/embed/NZGHXy1IAHM"
+            src="https://www.youtube.com/embed/SGgokA4yLI8"
             className="item w-full h-full rounded-[25px]"
             allowfullscreen
             alt="Profil"
